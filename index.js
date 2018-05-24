@@ -28,6 +28,6 @@ function appendKitten(name){
 
 function prependKitten(name){
   var newKittens = [...kittens];
-  newKittens.(name);
+  newKittens.shift(name);
   return
 }
