@@ -20,4 +20,3 @@ function destructivelyRemoveFirstKitten() {
   return kittens;
 }
 
-}
